@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://github.com/igorostap.github.io/goit-icecream-teamproject",
+  "homepage": "https://Snisarenko21.github.io/project-1",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-icecream-teamproject/"
+    "build": "parcel build src/*.html --public-url /project-1/"
   },
   "repository": {
     "type": "git",
